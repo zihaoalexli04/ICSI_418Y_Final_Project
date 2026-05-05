@@ -1,0 +1,8 @@
+
+> final-project@0.1.0 start
+> next start --hostname 127.0.0.1 --port 4011
+
+▲ Next.js 16.2.1
+- Local:         http://127.0.0.1:4011
+- Network:       http://127.0.0.1:4011
+✓ Ready in 968ms
